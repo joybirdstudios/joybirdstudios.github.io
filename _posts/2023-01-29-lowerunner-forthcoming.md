@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Lowrunner - Forthcoming March 2023"
+title: "Lowrunner"
 author: "Aster Teter"
 categories: narrative
 tags: [narrative, color grading]
 image: lr6.jpeg
 ---
-Forthcoming March 2023
+Forthcoming Summer 2023
 <br>
 Color Grading by Aster Teter
 <br>
