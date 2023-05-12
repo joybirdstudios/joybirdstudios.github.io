@@ -12,9 +12,11 @@ Color Grading by Aster Teter
 <br>
 Film by Hailey Bunn
 
-<img src="{{site.baseurl}}/assets/img/lr.jpeg">
-<img src="{{site.baseurl}}/assets/img/lr6.jpeg">
-<img src="{{site.baseurl}}/assets/img/lr2.jpeg">
-<img src="{{site.baseurl}}/assets/img/lr3.jpeg">
-<img src="{{site.baseurl}}/assets/img/lr4.jpeg">
-<img src="{{site.baseurl}}/assets/img/lr5.jpeg">
+
+<img src="{{site.baseurl}}/assets/img/lrv2_2.jpeg">
+<img src="{{site.baseurl}}/assets/img/lrv2_3.jpeg">
+<img src="{{site.baseurl}}/assets/img/lrv2_6.jpeg">
+<img src="{{site.baseurl}}/assets/img/lrv2_7.jpeg">
+<img src="{{site.baseurl}}/assets/img/lrv2_4.jpeg">
+<img src="{{site.baseurl}}/assets/img/lrv2_5.jpeg">
+<img src="{{site.baseurl}}/assets/img/lrv2_1.jpeg">
