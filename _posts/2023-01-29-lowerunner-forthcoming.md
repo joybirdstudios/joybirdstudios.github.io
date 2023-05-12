@@ -4,7 +4,7 @@ title: "Lowrunner"
 author: "Aster Teter"
 categories: narrative
 tags: [narrative, color grading]
-image: lr6.jpeg
+image: lr2_7.jpeg
 ---
 Forthcoming Summer 2023
 <br>
