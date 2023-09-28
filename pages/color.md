@@ -15,6 +15,6 @@ Browse our color grading examples:
 
 
 <div style=" ">    
-  <a href="//drive.google.com/file/d/1n5e2w9rCUvk76ulP-WNJaaXP35vLmKIH/view?usp=sharing">Hearthstone 20th Anniversary</a>  retrospective by Aster Teter and Deana Seitz 
+  <a href="//drive.google.com/file/d/1n5e2w9rCUvk76ulP-WNJaaXP35vLmKIH/view?usp=sharing">Alternate Viewer Link</a>  Hearthstone 20th Anniversary 
   <!-- more links here -->
 </div>
