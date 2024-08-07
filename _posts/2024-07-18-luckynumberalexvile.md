@@ -4,7 +4,7 @@ title: "Alex Vile - Lucky Number"
 author: "Deana Seitz and Aster Teter"
 categories: music videos
 tags: [music videos, color grading]
-image: lucky#.jpg
+image: luckynumber.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aDV3NMYCsxM?si=dqX0y_NOHmOQ7edE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
