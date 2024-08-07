@@ -8,7 +8,7 @@ image: as-1.jpg
 ---
 <img src="{{site.baseurl}}/assets/img/as-2.jpg">
 
-Forthcoming gallery video of Ann Marie Stillion's "Anonymous Sorrow" 
+Forthcoming gallery video of Ann Marie Stillion's "Anonymous Sorrow" <br>
 
-https://www.arttrek.com/
+https://www.arttrek.com/ <br>
 https://www.coregallery.org/ann-marie-stillion
