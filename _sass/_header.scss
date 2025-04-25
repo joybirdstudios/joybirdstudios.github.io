@@ -53,7 +53,8 @@
     display: none;
   }
   .site-title {
-    padding-right: 0.25rem;
+    float: left;
+    padding-right: 0;
   }
   .dropbtn {
     background-color: white;
@@ -65,8 +66,8 @@
     cursor: pointer;
   }
   .dropdown {
-    position: relative;
-    display: inline-block;
+    position: right;
+    display: 20px;
   }
   .dropdown-content {
     display: none;
