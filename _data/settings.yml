@@ -7,9 +7,9 @@ disqus:
 google-ID: ' '
 
 menu:
-- {name: 'Testimonials',       url: 'testimonials'}
-- {name: 'Commercial',    url: 'commercial'}
-- {name: 'About',              url: 'about'}
+#- {name: 'Testimonials',       url: 'testimonials'}
+#- {name: 'Commercial',    url: 'commercial'}
+#- {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 
