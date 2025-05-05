@@ -8,13 +8,14 @@ google-ID: ' '
 
 menu:
 - {name: 'Testimonials',       url: 'testimonials'}
-- {name: 'Commercial',    url: 'commercial'}
-- {name: 'About',              url: 'about'}
+#- {name: 'Commercial',    url: 'commercial'}
+#- {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'instagram', link:   '//www.instagram.com/joybirdstudios/'}
 - {icon: 'envelope', link:   'mailto:info@joybirdstudios.com'}
 
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
