@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Home
 ---
@@ -20,3 +20,157 @@ title: Home
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
 </div>
+<html>
+<head>
+<style>
+  
+.slider {
+	background: white;
+	height: 65px;
+	margin: auto;
+	overflow: hidden;
+	position: relative;
+	width: 70%; 
+}
+  
+
+  
+.slider::before,
+.slider::after {
+	background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+	content: "";
+	height: 100%;
+	position: absolute;
+	width: 100px;
+	z-index: 2;
+}
+
+.slider::after {
+	right: 0;
+	top: 0;
+	transform: rotateZ(180deg);
+}
+
+.slider::before {
+	left: 0;
+	top: 0;
+}
+
+.slider .slide-track {
+	animation: scroll 20s linear infinite;
+	display: flex;
+}
+  
+/* Mobile devices (typically 768px and below) */
+@media only screen and (max-width: 768px) {
+    .slider {
+        width: 100%;
+    }
+}
+
+@keyframes scroll {
+	0% { transform: translateX(0); }
+	100% { transform: translateX(calc(-122px * 12)); } /* 12 slides × 122px each */
+}
+
+.slider .slide {
+	height: 60px;
+	min-width: 120px; /* Fixed width for consistent sizing */
+	margin: 0 1px; /* Horizontal margins only */
+}
+
+.slide img {
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+	padding: 0px; /* Optional for spacing around logos */
+}
+</style>
+</head>
+<body>
+<div class="slider">
+	<div class="slide-track">
+    	<!-- Original 12 slides -->
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/ama-lg-02.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/bre-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/cfc-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/lam-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/mcd-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/pea-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/res-lg-02-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/trac-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/ca-lg_02.png" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/duk-lg.png" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/gla-lg_02.png" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/oly-lg_02.png" alt="">
+    	</div>
+
+    	<!-- Duplicated 12 slides for seamless loop -->
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/ama-lg-02.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/bre-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/cfc-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/lam-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/mcd-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/pea-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/res-lg-02-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/trac-lg-01.svg" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/ca-lg_02.png" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/duk-lg.png" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/gla-lg_02.png" alt="">
+    	</div>
+    	<div class="slide">
+        	<img src="{{site.baseurl}}/assets/img/marquee/oly-lg_02.png" alt="">
+    	</div>
+	</div>  
+  
+</div>
+    <div style=" left: 0; width: 100%; font-family:verdana ; color:  lightgrey ; text-align: center; font-size:10px ">Brands and Artists we've collaborated with ⤴</div>	  
+  <br>  
+</body>
+</html>
+
+
