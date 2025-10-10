@@ -6,8 +6,6 @@ categories: advertisement
 tags: [color grading, editing]
 image: rainiersquare.jpeg
 ---
-
-<br>
 <style>
 .browser * {
   box-sizing: border-box;
