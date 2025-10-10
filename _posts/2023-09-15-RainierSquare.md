@@ -70,6 +70,7 @@ image: rainiersquare.jpeg
   border: 0;
   display: block;
 }
+
 </style>
 
 <div class="browser" url="https://liverainiersquare.com/">
