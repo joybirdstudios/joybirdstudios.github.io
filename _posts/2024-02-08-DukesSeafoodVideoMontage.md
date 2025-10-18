@@ -6,19 +6,23 @@ categories: advertisement
 tags: [color grading, editing]
 image: dukes2024.png
 ---
-<iframe src="https://player.vimeo.com/video/911329804?h=54b7fe100f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/911329804">Duke&#039;s Seafood Video Montage</a> from <a href="https://vimeo.com/user91714091">Dukes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="browser" url="https://dukesseafood.com/">
+    <div class="iframe-wrapper">
+      <iframe src="https://player.vimeo.com/video/911329804?h=54b7fe100f" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+    </div>
+</div>
 
-https://www.dukesseafood.com/
+<h4>Landing Page for Dukes Seafood (2024) </h4>
+Lead Editor: Deana Seitz | Colorist: Aster Teter
+<br>
+<a href="https://dukesseafood.com/">Dukes Seafood</a>
+
+<br>
 
 Produced by Miraflores Media LLC
 <br>
 Director: Tatiana Passano
 <br>
 Cinematographer: Cory Ingram
-<br>
-Lead Editor: Deana Seitz
-<br>
-Colorist: Aster Teter
 <br>
 Gaffer: Aster Teter
