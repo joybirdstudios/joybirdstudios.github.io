@@ -15,14 +15,17 @@ image: dukes2024.png
 <h4>Landing Page for Dukes Seafood (2024) </h4>
 Lead Editor: Deana Seitz | Colorist: Aster Teter
 <br>
-<a href="https://dukesseafood.com/">Dukes Seafood</a>
-
-<br>
-
 Produced by Miraflores Media LLC
 <br>
 Director: Tatiana Passano
 <br>
 Cinematographer: Cory Ingram
 <br>
+Lead Editor: Deana Seitz
+<br>
+Colorist: Aster Teter
+<br>
 Gaffer: Aster Teter
+<br>
+<a href="https://dukesseafood.com/">Dukes Seafood</a>
+
