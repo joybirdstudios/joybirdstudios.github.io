@@ -1,0 +1,28 @@
+<div class="gallery-container">
+    <div class="container">
+        <div class="fx2">
+            {% for image in include.images %}
+            <!-- Image {{ forloop.index }} -->
+            <a href="#image{{ forloop.index }}" class="image-link">
+                <div class="item col4">
+                    <img class="transition img-responsive" src="{{ image.thumb }}" alt="{{ image.alt }}">
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+
+        <!-- Modals -->
+        {% for image in include.images %}
+        <div class="modal" id="image{{ forloop.index }}">
+            <a href="#" class="modal-close"></a>
+            <div class="modal-content">
+                <img src="{{ image.full }}" class="modal-image" alt="{{ image.alt }}">
+                <a href="#" class="close-button"></a>
+            </div>
+        </div>
+        {% endfor %}
+
+        <!-- Fallback for closing -->
+        <div id="close"></div>
+    </div>
+</div>
