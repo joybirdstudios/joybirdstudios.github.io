@@ -33,7 +33,5 @@ Lead Editor: Deana Seitz
 Colorist: Aster Teter
 2nd Camera OP: Jordie Simpson 
 </div>
-<br>
 <a href="//www.clooneydog.com/" target="_blank">
     <img src="{{site.baseurl}}/assets/img/clooneydog2024.jpg" alt="[Screenshot of website displaying landing video by Joybird Studios, hyperlink goes to current website]" title="Clooney Dog & Friends, Pet Photography Landing Page 2025" class="responsive"/> 
-    <br>

@@ -23,7 +23,5 @@ image: rainiersquare.jpeg
 
 <h4>Landing Page for the Residences at Rainier Square (2023) </h4>
 Lead Editor: Deana Seitz | Colorist: Aster Teter
-<br>
-
 <a href="https://liverainiersquare.com/" target="_blank">>
     <img src="{{site.baseurl}}/assets/img/residences2023.png" alt="[Screenshot of website displaying landing video by Joybird Studios, hyperlink goes to current website]" title="The Residences @ Rainier Square Landing Page 2023" class="responsive"/> 
