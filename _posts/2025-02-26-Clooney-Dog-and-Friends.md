@@ -21,7 +21,7 @@ published: true
 
 <div class="browser" url="https://www.clooneydog.com/">
     <div class="iframe-wrapper">
-      <iframe src="https://player.vimeo.com/video/1060670154" frameborder="0" allowfullscreen>      
+      <iframe src="//player.vimeo.com/video/1060670154" frameborder="0" allowfullscreen>      
       </iframe>
     </div>
 </div>
@@ -34,6 +34,6 @@ Colorist: Aster Teter
 2nd Camera OP: Jordie Simpson 
 </div>
 <br>
-<a href="https://www.clooneydog.com/" target="_blank">
+<a href="//www.clooneydog.com/" target="_blank">
     <img src="{{site.baseurl}}/assets/img/clooneydog2024.jpg" alt="[Screenshot of website displaying landing video by Joybird Studios, hyperlink goes to current website]" title="Clooney Dog & Friends, Pet Photography Landing Page 2025" class="responsive"/> 
     <br>

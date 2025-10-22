@@ -33,7 +33,4 @@ Cinematography and Color by Aster Teter of Joybird Studios
 Production Design by Jodi Davis Creative
 PA Yukimi Bishop
 </div>
-
-<br>
-
-  <a href="//patricianugenttextiles.com/" target="_blank">patricianugenttextiles.com</a> 
+<a href="//patricianugenttextiles.com/" target="_blank">patricianugenttextiles.com</a> 
