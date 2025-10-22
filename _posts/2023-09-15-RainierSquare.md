@@ -3,7 +3,7 @@ layout: post
 title: "The Residences at Rainier Square | Seattle WA Apartments"
 author: "Deana Seitz"
 categories: advertisement 
-tags: [color grading, editing]
+tags: [color grading, editing, landing page, advertisement]
 image: rainiersquare.jpeg
 ---
 
