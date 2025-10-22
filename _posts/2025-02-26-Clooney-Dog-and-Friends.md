@@ -7,6 +7,18 @@ tags: [color grading, editing, advertisement, landing page]
 image: clooney+jitterbug.jpg
 published: true
 ---
+<style>
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.break {
+    white-space: pre-wrap;
+}
+</style>
+
+
 <div class="browser" url="https://www.clooneydog.com/">
     <div class="iframe-wrapper">
       <iframe src="https://player.vimeo.com/video/1060670154" frameborder="0" allowfullscreen>      
@@ -22,7 +34,6 @@ Colorist: Aster Teter
 2nd Camera OP: Jordie Simpson 
 </div>
 <br>
-
-<a href="https://www.clooneydog.com/">
+<a href="https://www.clooneydog.com/" target="_blank">
     <img src="{{site.baseurl}}/assets/img/clooneydog2024.jpg" alt="[Screenshot of website displaying landing video by Joybird Studios, hyperlink goes to current website]" title="Clooney Dog & Friends, Pet Photography Landing Page 2025" class="responsive"/> 
     <br>

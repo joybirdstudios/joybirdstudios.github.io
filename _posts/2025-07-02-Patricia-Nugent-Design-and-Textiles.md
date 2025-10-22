@@ -7,9 +7,21 @@ tags: [color grading, documentary, editing, landing page]
 image: patheader.jpg
 published: true
 ---
+<style>
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.break {
+    white-space: pre-wrap;
+}
+</style>
+
+
 <div class="browser" url="https://patricianugenttextiles.com/">
     <div class="iframe-wrapper">
-      <iframe src="//player.vimeo.com/1129669871?share=copy&fl=sv&fe=ci" frameborder="0" allowfullscreen>      
+      <iframe src="//player.vimeo.com/video/1129669871?share=copy&fl=sv&fe=ci" frameborder="0" allowfullscreen>      
       </iframe>
     </div>
 </div>
