@@ -6,6 +6,14 @@ categories: advertisement
 tags: [color grading, editing]
 image: rainiersquare.jpeg
 ---
+
+<style>
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+
 <div class="browser" url="https://liverainiersquare.com/">
     <div class="iframe-wrapper">
       <iframe src="https://player.vimeo.com/progressive_redirect/playback/933746211/rendition/1080p/file.mp4?loc=external&signature=e0fc2aba09b45493d9d6eeef4697e39d9cdb532717b9c19484cfc8b64b6da0fa" frameborder="0" allowfullscreen>      
@@ -17,6 +25,5 @@ image: rainiersquare.jpeg
 Lead Editor: Deana Seitz | Colorist: Aster Teter
 <br>
 
-<a href="https://liverainiersquare.com/"
-   style="text-decoration: none;">
-    <img src="https://snipboard.io/jZi2Ur.jpg" alt="Screenshot of Live Website displaying Landing Video by Joybird Studios" title="The Residences @ Rainier Square Landing Page 2023"/> 
+<a href="https://liverainiersquare.com/">
+    <img src="{{site.baseurl}}/assets/img/residences2023.png" alt="[Screenshot of website displaying landing video by Joybird Studios, hyperlink goes to current website]" title="The Residences @ Rainier Square Landing Page 2023" class="responsive"/> 
