@@ -6,14 +6,6 @@ categories: music videos
 tags: [music videos, color grading, editing, visuals]
 image: pjdm-header.jpg
 ---
----
-layout: post
-author: "Deana Seitz and Aster Teter"
-title: "Pearl Jam: Dark Matter World Tour 2024"
-categories: music videos
-tags: [music videos, color grading, editing, visuals]
-image: pjdm-header.jpg
----
 <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Raleway|Rozha+One|Montserrat:400,500,600,700&display=swap" rel="stylesheet">
 
