@@ -452,7 +452,7 @@ p:not([class*="anim-title-line"]):not([style*="color: grey"]) {
         <div class="modal" id="image1">
             <a href="#" class="modal-close"></a>
             <div class="modal-content">
-                <img src="{{site.baseurl}}/assets/img/Climate-Pledge-Rehearsals.jpg" class="modal-image" alt="Modal image 1">
+                <img src="{{site.baseurl}}/assets/img/Chicago%20Wrigley%20II.jpg" class="modal-image" alt="Modal image 1">
                 <a href="#" class="close-button"></a>
             </div>
         </div>
